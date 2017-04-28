@@ -1,0 +1,23 @@
+.class public Codigo:
+.super java/lang/Object
+	.method public static func
+	.limit stack 10
+	.limit locals 10
+		ldc 5
+		ldc 6
+		iadd
+		ldc 9
+		isub
+		ireturn
+	.end method
+	.method public static main([Ljava/lang/String;)V
+	.limit stack 100
+	.limit locals 100
+		ldc 2
+		istore 1
+		ldc 1
+		istore 2
+		ldc "asd"
+		astore 3
+		return main
+	.end method

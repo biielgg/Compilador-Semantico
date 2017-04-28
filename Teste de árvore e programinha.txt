@@ -1,0 +1,19 @@
+
+class id 
+	defstatic void main String args
+	integer x;
+	String teste;
+		
+
+		id
+	class		Main()
+		
+		main	    	id
+	
+	defstatic    	String     	declaravariasID
+				
+				declaraid 	declaravariosID 	
+			
+			id		declaraid 	declaravariosID
+		
+				id				lambda 	
